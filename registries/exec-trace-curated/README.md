@@ -28,4 +28,4 @@ normalised, and exit codes mapped to a stable taxonomy.
 
 **License**
 
-The license for this dataset is cc-by-sa-4.0.
+The license for this dataset is odc-by-1.0.
