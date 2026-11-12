@@ -31,3 +31,7 @@ repository for the current licence review.
 
 Rebuilt monthly from the upstream snapshot; the schema is stable across
 releases.
+
+**License**
+
+The license for this dataset is odc-by-1.0.
